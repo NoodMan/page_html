@@ -25,7 +25,8 @@
             <a href="#addition" onclick="showAddition()">Addition</a>
             <a href="#multiply" onclick="showMultiply()">Multiplication</a>
             <a href="#api" onclick="showApi()">API</a>
-            <a href="#api" onclick="showApi()">Soustraction</a>
+            <a href="#api" onclick="showSoustraction()">Soustraction</a>
+            <a href="#api" onclick="showDivide()">Diviser</a>
         </nav>
         <!-- Ici ma barre de navigation (navbar) -->
     </header>
@@ -45,6 +46,7 @@
     <script src="js/api.js"></script>
     <script src="js/addition.js"></script>
     <script src="js/soustraction.js"></script>
+    <script src="js/division.js"></script>
     <div>
         <span id="copyright"> <small>&copy; Alaji 2021</small></span>
     </div>
